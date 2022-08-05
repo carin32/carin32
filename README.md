@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carin32
+- 👋 Hi, I’m Heeran
 - 👀 I’m interested in ML, LN
 - 🌱 I’m currently learning both
 
